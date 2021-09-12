@@ -1,16 +1,30 @@
-# task
+## Task
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project include anonymous Firebase login using email and password which include email verification.
 
-A few resources to get you started if this is your first Flutter project:
+SQFLITE Operations:
+      
+      1) Insert New Data to SQFLITE
+      
+      2) Update already Present Data
+      
+      3) Delete a Row from the Sqflite database.
+      
+      4) Creation of Sqflite Database 
+       These all operation ae present in Helper-> database_helper.dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This Project all have pagination which fetch only 10 data from the sqflite database and make it lazy in order to save memory and provide decent performance.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

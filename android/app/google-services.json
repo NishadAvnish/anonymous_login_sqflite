@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "169721211120",
+    "firebase_url": "https://randomprojects-baada.firebaseio.com",
+    "project_id": "randomprojects-baada",
+    "storage_bucket": "randomprojects-baada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169721211120:android:d9c243d2e9e0347e403a35",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId-xDboyNjnPacOADQoTZrE_I9AOkO1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169721211120:android:2a3b9843ab5b3916403a35",
+        "android_client_info": {
+          "package_name": "com.yellowclass.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId-xDboyNjnPacOADQoTZrE_I9AOkO1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
